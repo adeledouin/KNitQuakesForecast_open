@@ -1,0 +1,3 @@
+from gym_KnitCity.envs.env_KnitCity import DecisionalKnitCity
+
+from gym_KnitCity.envs.env_KnitCity_raw import DecisionalKnitCityRaw

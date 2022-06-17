@@ -1,1 +1,1 @@
-# KNitQuakesForecast_open
+# KnitQuakesForecast
